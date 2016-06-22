@@ -53,7 +53,11 @@ Gavdos.innerHTML="Near the more well-known Crete, Gavdos is the most southern is
 /**
  * Part B
  * Contact form part
+ * Also creating references to all form inputs and also adding it's functionality
  */
+var contactForm=document.getElementById("contactForm");
+var firstName=document.getElementById("firstName");
+var lastName=document.getElementById("lastName");
 
 
 })();
