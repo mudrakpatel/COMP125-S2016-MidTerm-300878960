@@ -17,6 +17,9 @@ IntroParagraph.innerHTML="Now is the time to travel to Greece. The country may b
 "Greece has 1,400 islands, though only 230 of them are inhabited."+"<br>" 
 
 "And while everyone knows about Santorini and Mykonos, there are gorgeous lesser-known islands in Greece, too."+"<br>";
+//Folegandros content
+var Folegandros=document.getElementById("Folegandros");
+Folegandros.innerHTML="Folegandros is almost a Greek cliché, full of beautiful whitewashed houses with bright blue doors lining cobblestoned streets on steep cliffs."+"<br>"+" Rugged and remote, without chain hotels or package tours — not even a bank or ATM — and accessible only by ferry, the volcanic island boasts solitude in spades, secluded beaches, and incredible sunsets.";
 
 
 
