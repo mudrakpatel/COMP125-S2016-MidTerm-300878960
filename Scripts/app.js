@@ -12,6 +12,8 @@
 /**
  * @ part A
  */
+
+
 //IntroParagraph content
 var IntroParagraph=document.getElementById("IntroParagraph");
 IntroParagraph.innerHTML="Now is the time to travel to Greece. The country may be going through an economic crisis, but many travellers say that it hasn't impacted the experience of visiting. Plus, there may be some great deals."+
@@ -46,6 +48,13 @@ Ithaca.innerHTML="Most famous for being the home of Odysseus, and a prominent fi
 //Gavdos content injecting process
 var Gavdos=document.getElementById("Gavdos");
 Gavdos.innerHTML="Near the more well-known Crete, Gavdos is the most southern island in Greece — and the most southern spot in Europe discounting the Canaries. Only accessible by ferry, the remote island has only about 50 permanent residents, and can feel like your private playground. Local legend has it that the island was the home of goddess Calypso, who kept Odysseus prisoner here. Today, a favorite tourist activity is to visit the spot believed to be her cave. Be warned, you won't find any luxury hotels here. While the romantically under-developed, super laid back island has a number of rooms for rent, those are limited, as the real draw here for many is the free, seaside camping."+"<br>";
+
+
+/**
+ * Part B
+ * Contact form part
+ */
+
 
 })();
 
