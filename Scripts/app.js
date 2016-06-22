@@ -29,6 +29,9 @@ Spetses.innerHTML="This bohemian paradise is more Côte d'Azur than Grecian isla
 //Amorgos content injecting process
 var Amorgos=document.getElementById("Amorgos");
 Amorgos.innerHTML="A favourite Athenian escape and former shipowners' vacation spot full of grand mansions, Syros is little known to foreigners."+"<br>"+" Famous for its neoclassical architecture and perfectly preserved heritage, its capital, Ermoupolis, was a 13th-century Venetian-built town and important trade and industrial centre, and boasts giant churches and beautiful villas, a stunning town hall, and labyrinthine streets and stairways.";
+//Syros content injecting process
+var Syros=document.getElementById("Syros");
+Syros.innerHTML="A favourite Athenian escape and former shipowners' vacation spot full of grand mansions, Syros is little known to foreigners."+"<br>"+" Famous for its neoclassical architecture and perfectly preserved heritage, its capital, Ermoupolis, was a 13th-century Venetian-built town and important trade and industrial centre, and boasts giant churches and beautiful villas, a stunning town hall, and labyrinthine streets and stairways.";
 
 })();
 
