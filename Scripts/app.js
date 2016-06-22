@@ -10,6 +10,7 @@
 /**
  * @ part A
  */
+//IntroParagraph content
 var IntroParagraph=document.getElementById("IntroParagraph");
 IntroParagraph.innerHTML="Now is the time to travel to Greece. The country may be going through an economic crisis, but many travellers say that it hasn't impacted the experience of visiting. Plus, there may be some great deals."+
 "<br>"+
