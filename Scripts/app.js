@@ -17,10 +17,12 @@ IntroParagraph.innerHTML="Now is the time to travel to Greece. The country may b
 "Greece has 1,400 islands, though only 230 of them are inhabited."+"<br>" 
 
 "And while everyone knows about Santorini and Mykonos, there are gorgeous lesser-known islands in Greece, too."+"<br>";
-//Folegandros content
+//Folegandros content injecting process
 var Folegandros=document.getElementById("Folegandros");
-Folegandros.innerHTML="Folegandros is almost a Greek cliché, full of beautiful whitewashed houses with bright blue doors lining cobblestoned streets on steep cliffs."+"<br>"+" Rugged and remote, without chain hotels or package tours — not even a bank or ATM — and accessible only by ferry, the volcanic island boasts solitude in spades, secluded beaches, and incredible sunsets.";
-
+Folegandros.innerHTML="Folegandros is almost a Greek cliché, full of beautiful whitewashed houses with bright blue doors lining cobblestoned streets on steep cliffs."+"<br>"+" Rugged and remote, without chain hotels or package tours — not even a bank or ATM — and accessible only by ferry, the volcanic island boasts solitude in spades, secluded beaches, and incredible sunsets."+"<br>";
+//Alonissos content injecting process
+var Alonissos=document.getElementById("Alonissos");
+Alonissos.innerHTML="Off the mainland, this island, whose surrounding waters are a designated marine park full of seals and dolphins, is a nature lover's dream."+"<br>"+" The spectacular spot's crystal clear waters and beautiful beaches are perfect for diving, and its lush flora and dense forests ideal for hikes."+"<br>"+" Since the rich landscape is chock full of indigenous herbs, it's also known for its traditional medicine, and home of the International Academy of Homeopathy."+"<br>";
 
 
 })();
